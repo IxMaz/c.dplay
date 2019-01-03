@@ -1,6 +1,6 @@
-token= NTMwMDcwNDQzMTQzNDYyOTE1.Dw6CYA.5Cq4jmlJSTQWlxARPm-oxwkYkFA
-owner= 510520286488035339
-prefix= 5
+token= NTMwMzY3NzQwNDk0NjEwNDQy.Dw-YHw.8nHwHKtA2404xqLwhYEB0svztvg
+owner= 333140974865874944
+prefix= q
 game= 
 stayinchannel=true 
 songinstatus=false 
